@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20b0ong's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+![snake gif](https://github.com/b0ong/b0ong/blob/output/github-contribution-grid-snake.svg)
+
 ## 💪 Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
