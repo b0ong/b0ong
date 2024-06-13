@@ -59,4 +59,6 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+![B0ong's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0ong&show_icons=true&theme=radical)
+
 <img src="https://github.com/b0ong/b0ong/blob/output/github-contribution-grid-snake.svg"/>
