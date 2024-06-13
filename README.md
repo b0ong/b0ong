@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **b0ong/b0ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
