@@ -47,6 +47,7 @@ Here are some ideas to get you started:
     <p><strong>Tools</strong></p>
     <div>
         <img height="40" src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" title="Visual Studio Code"> 
+        <img height="40" src="[https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631](https://icons8.com/icon/61466/intellij-idea)" title="Intellij IDEA"> 
     </div>
 
 ## 📞 Contact 📞
