@@ -60,5 +60,12 @@ Here are some ideas to get you started:
 </div>
 
 ![B0ong's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0ong&show_icons=true&theme=radical)
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/b0ng">
+    <img src="https://github-readme-stats.vercel.app/api?username=b0ong&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0ng&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
 
 <img src="https://github.com/b0ong/b0ong/blob/output/github-contribution-grid-snake.svg"/>
