@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-![B0ong's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0ong&show_icons=true&theme=radical)
+<!--![B0ong's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0ong&show_icons=true&theme=radical)-->
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/b0ng">
